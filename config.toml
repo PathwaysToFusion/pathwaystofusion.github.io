@@ -21,5 +21,5 @@ Theme = "hugo-universal-theme"
 
 [params]
     disabled_logo = false
-    logo_text = Pathways
+    logo_text = "Pathways"
     logo = "img/logo.png"
