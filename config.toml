@@ -19,3 +19,7 @@ Theme = "hugo-universal-theme"
     pageRef = '/partners'
     weight = 30
 
+[params]
+    disabled_logo = false
+    logo_text = Pathways
+    logo = "img/logo.png"
