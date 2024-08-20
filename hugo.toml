@@ -25,11 +25,6 @@ pageRef = '/partners'
 weight = 30
 
 [params]
-    disabled_logo = false
-    logo_text = "Pathways"
-    logo = "img/logo.png"
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+disabled_logo = false
+logo_text = "Pathways"
+logo = "img/logo.png"
