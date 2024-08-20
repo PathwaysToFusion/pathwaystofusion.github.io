@@ -10,13 +10,13 @@ sectionPagesMenu = 'main'
 # Menus are ordered from lowest weight to highest
 
 [[menus.main]]
-name = 'Overview'
+name = 'Introduction'
 pageRef = '/'
 weight = 10
 
 [[menus.main]]
-name = 'Healthy to Innovative Framework'
-pageRef = '/hti'
+name = 'Resources'
+pageRef = '/resources'
 weight = 20
 
 [[menus.main]]
@@ -28,3 +28,8 @@ weight = 30
     disabled_logo = false
     logo_text = "Pathways"
     logo = "img/logo.png"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
