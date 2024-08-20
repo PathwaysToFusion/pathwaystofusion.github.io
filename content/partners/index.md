@@ -1,3 +1,13 @@
-# Partners
+## Member Institution Profiles
 
-The Pathways to Fusion partners are...
+ - TAE Technologies TAE Technologies is  a fusion power company developing the most sustainable and economically competitive solution  to bring abundant fusion energy to the grid, focusing on magnetically confined field-reversed configuration fusion plasmas.
+ - Center for Astrophysics | Harvard & Smithsonian The CfA is a joint partnership of the Smithsonian Astrophysical Observatory and the Harvard College Observatory.  CfA scientists are involved in missions and projects ranging from Parker Solar Probe to the Event Horizon Telescope. The CfA includes many plasma astrophysicists, including in the Solar & Stellar X-Ray Group.
+ - Oak Ridge National Lab (ORNL) Oak Ridge National Laboratory: Solving the Big Problems | ORNL ORNL  is the world’s premier research institution, empowering leaders and teams to pursue breakthroughs in an environment marked by operational excellence and engagement with the communities where we live and work.
+ - Howard University - https://physics.howard.edu/research/computational-physics The mission of the Department of Physics and Astronomy at Howard University is to strive for a recognized level of national and international excellence in research and teaching in physics and to assure that students of African American descent and other underrepresented groups are given the opportunity to achieve their fullest potential in physics.
+ - USCGA - United States Coast Guard Academy - The United States Coast Guard Academy is a top military college granting Bachelor of Science degrees in one of nine engineering or professional majors.
+ - Princeton Plasma Physics Laboratory (PPPL) Princeton Plasma Physics Laboratory (pppl.gov) PPPL aims to solve a grand scientific challenge of the 21st century – harnessing on Earth the fusion energy that drives the sun and stars to produce a safe, clean and virtually unlimited source of power for generating the world’s electricity.
+ - University of Eastern Maryland Shores - Department of Natural Sciences | Department of Natural Sciences (umes.edu) From medicine and pharmacy to environmental protection and toxicology, the interdisciplinary undergraduate and graduate programs in the Department of Natural Sciences at the University of Maryland Eastern Shore are your path to an exciting career making an impact on the world around you.
+ - Lawrence Livermore National Laboratory (llnl.gov) For 70 years, Lawrence Livermore National Laboratory has leveraged science and technology to make the world a safer place.  We apply cutting-edge science and technology to achieve breakthroughs in enterprise resilience and counterterrorism, defense and intelligence, energy security and climate resilience and research and development to produce fundamental science discoveries and faster innovation cycles.
+ - American Physical Society Division of Plasma Physics (APS DPP) APS DPP is a professional organization dedicated to the advancement and dissemination of the knowledge, understanding, and applications of plasmas. 
+
+## User Institution Profiles
