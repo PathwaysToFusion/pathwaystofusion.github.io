@@ -1,3 +1,5 @@
+# Partners
+
 ## Member Institution Profiles
 
  - TAE Technologies TAE Technologies is  a fusion power company developing the most sustainable and economically competitive solution  to bring abundant fusion energy to the grid, focusing on magnetically confined field-reversed configuration fusion plasmas.
