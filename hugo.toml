@@ -1,23 +1,28 @@
+title = 'Pathways to Fusion'
 baseURL = 'https://pathwaystofusion.github.io/'
 languageCode = 'en-us'
-title = 'Pathways to Fusion'
-Theme = "hugo-universal-theme"
+Theme = "ananke"
 
-
+sectionPagesMenu = 'main'
 
 [menus]
-  [[menus.main]]
-    name = 'Overview'
-    pageRef = '/'
-    weight = 10
-  [[menus.main]]
-    name = 'Healthy to Innovative Framework'
-    pageRef = '/hti'
-    weight = 20
-  [[menus.main]]
-    name = 'Partners'
-    pageRef = '/partners'
-    weight = 30
+
+# Menus are ordered from lowest weight to highest
+
+[[menus.main]]
+name = 'Overview'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Healthy to Innovative Framework'
+pageRef = '/hti'
+weight = 20
+
+[[menus.main]]
+name = 'Partners'
+pageRef = '/partners'
+weight = 30
 
 [params]
     disabled_logo = false
