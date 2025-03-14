@@ -28,9 +28,7 @@ project:
 
   - name: Royce James
 
-  - name:
-    given: Nicholas
-    surname: Murphy
+  - name: Nicholas Murphy
     github: namurphy
     orcid: 0000-0001-6628-8033
 
