@@ -1,0 +1,46 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+
+version: 1
+
+project:
+
+  id: ed2db44b-f1ac-4ef0-8795-32d59b7c0cee
+  title: Pathways to Fusion
+  description: Prototype website for Pathways to Fusion
+  github: https://github.com/PathwaysToFusion/pathwaystofusion.github.io
+  open-access: true
+  license: CC-BY-4.0
+
+  toc:
+  - file: content/index.md
+
+  abbreviations:
+    FES: Fusion Energy Sciences
+    MyST: Markedly Structured Text
+
+  keywords:
+  - fusion energy
+  - workforce development
+
+  authors:
+
+  - name:
+    given: Arturo
+    surname: Dominguez
+
+  - name:
+    given: Royce
+    surname: James
+
+  - name:
+    given: Nicholas
+    surname: Murphy
+    github: namurphy
+    orcid: 0000-0001-6628-8033
+
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
