@@ -24,13 +24,9 @@ project:
 
   authors:
 
-  - name:
-    given: Arturo
-    surname: Dominguez
+  - name: Arturo Dominguez
 
-  - name:
-    given: Royce
-    surname: James
+  - name: Royce James
 
   - name:
     given: Nicholas
